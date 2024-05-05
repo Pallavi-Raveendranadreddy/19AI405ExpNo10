@@ -1,7 +1,7 @@
 # EX-10 Implementation of Classical Planning Algorithm.
 
 ### Aim:
-To implement the Classical Planning Algorithm.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE: 17.04.2024**
+To implement the Classical Planning Algorithm.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 ### Algorithm:
 - Define the initial state 
@@ -39,8 +39,8 @@ def is_applicable(current_state, precondition):
 ```
 
 ```
-Developed By: S JAIGANESH
-Register No : 212222240037
+Developed By:VALASAREDDY PALLAVI
+Register No : 212221240059
 ```
 
 #### Example - 1
